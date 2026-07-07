@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "FlashCardQuiz"
+rootProject.name = "RandomQuoteGenerator"
 include(":app")
